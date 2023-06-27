@@ -59,7 +59,7 @@ List 组件的格式很简单：
       {/* children */}
     </List>
 
-<SimpleList>组件还挺适合手机端。
+`<SimpleList>`组件还挺适合手机端。
 
 
 ## 编写自定义List组件
